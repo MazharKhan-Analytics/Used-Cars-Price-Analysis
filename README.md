@@ -43,27 +43,6 @@ Identify price patterns, brand performance, fuel preferences, and provide action
 4. **EDA**: explore price distributions, depreciation trends, brand-level averages, and regional fuel preferences.  
 5. **Translate to business value**: convert raw insights into recommendations for buyers, dealers, and sellers.  
 
----
-
-## 📊 Visualizations & Key Figures
-
-### Price by Brand
-![Price by Brand](dashboard/price_by_brand.jpg)  
-_Average price by brand — helps in competitor benchmarking and pricing strategy._
-
-### Fuel Type Distribution by City
-![Fuel Type Distribution](dashboard/fuel_type_city.jpg)  
-_Shows regional fuel preference, guiding inventory strategy._
-
-### Price Trends by Year
-![Price by Year](dashboard/price_by_year.jpg)  
-_Depreciation patterns help buyers and sellers understand age–price relationships._
-
-### Affordable Options (≤ ₹3,00,000)
-![Cheap Cars](dashboard/cheap_cars.jpg)  
-_Highlights inventory for budget-conscious buyers._
-
----
 
 ## 💡 Key Insights & Recommendations
 
