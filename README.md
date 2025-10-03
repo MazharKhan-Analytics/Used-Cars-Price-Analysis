@@ -35,6 +35,9 @@ Identify price patterns, brand performance, fuel preferences, and provide action
 4. **EDA**: explore price distributions, depreciation trends, brand-level averages, and regional fuel preferences.  
 5. **Translate to business value**: convert raw insights into recommendations for buyers, dealers, and sellers.
 
+## 📊 Full Dashboard Snapshot  
+
+![Used Car Analysis Dashboard](Used_Car_Analysis%20Dashboard.JPG)
 
 
 ## 💡 Key Insights & Recommendations
