@@ -2,7 +2,6 @@
 
 **Quick Snapshot**
 - **Scope:** Scraped used-car listings across major Indian cities  
-- **Rows analyzed:** ~10,000 (sample size)  
 - **Key finding:** Maruti Suzuki and Hyundai dominate the budget segment  
 - **Visuals:** Available in `/dashboard`
 
