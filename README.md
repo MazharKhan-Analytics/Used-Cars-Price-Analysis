@@ -24,14 +24,6 @@ Identify price patterns, brand performance, fuel preferences, and provide action
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Reproducibility:** Jupyter Notebook, GitHub
 
-- Used-Cars-Price-Analysis/
-│── README.md
-
-
----
-
----
-
 ## 🔎 Methodology (Thought Process)
 
 1. **Scrape** car listings from Quikr across major cities capturing: `Name`, `Price`, `Kilometers`, `Fuel Type`, `Ownership`, `Location`.  
@@ -41,7 +33,8 @@ Identify price patterns, brand performance, fuel preferences, and provide action
    - Compute `Price_Lakhs`  
    - Normalize `Ownership Count`  
 4. **EDA**: explore price distributions, depreciation trends, brand-level averages, and regional fuel preferences.  
-5. **Translate to business value**: convert raw insights into recommendations for buyers, dealers, and sellers.  
+5. **Translate to business value**: convert raw insights into recommendations for buyers, dealers, and sellers.
+
 
 
 ## 💡 Key Insights & Recommendations
