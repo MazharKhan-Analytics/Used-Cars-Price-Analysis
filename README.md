@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the Indian used-car market as part of my internship project **RetailNova** at **Analyticspace**.  
+This project analyzes the Indian used-car market as part of my internship project at **Analyticspace**.  
 It demonstrates an end-to-end analytics workflow: **web scraping → data cleaning → exploratory data analysis (EDA) → visualization → business recommendations**.
 
 **Objective:**  
