@@ -1,7 +1,5 @@
 # 🚗 Used Cars Price Analysis
 
-![Project Snapshot](dashboard/price_by_brand.jpg)
-
 **Quick Snapshot**
 - **Scope:** Scraped used-car listings across major Indian cities  
 - **Rows analyzed:** ~10,000 (sample size)  
